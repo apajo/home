@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
+  "homepage": "https://apajo.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
@@ -24,6 +24,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4",
     "react-typist": "^2.0.5",
+    "read": "^1.0.7",
     "typescript": "^3.9.7"
   },
   "scripts": {
